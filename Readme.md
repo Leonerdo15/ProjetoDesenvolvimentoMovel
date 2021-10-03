@@ -3,15 +3,16 @@
 **IADE - Faculdade de Design, Tecnologia e Comunicação**
 
 Engenharia Informática — 3.º semestre
+
 Felipe Campelo Sabbado (20191012); Leonardo Lage (20200859)
 
 Projeto Multidisciplinar:
-Projeto de Desenvolvimento Mobile (Pedro Rosa);
-Programação Mobile (João Dias);
-Programação Orientada por Objetos (Miguel Bugalho);
-Bases de Dados (Miguel Boavida);
-Competências Comunicacionais (Alexandra Santos,);
-Matemática Discreta (Rodolfo Bendoyro)
+- Projeto de Desenvolvimento Mobile (Pedro Rosa);
+- Programação Mobile (João Dias);
+- Programação Orientada por Objetos (Miguel Bugalho);
+- Bases de Dados (Miguel Boavida);
+- Competências Comunicacionais (Alexandra Santos,);
+- Matemática Discreta (Rodolfo Bendoyro)
 
 1 de outubro de 2021
 
@@ -37,15 +38,15 @@ A aplicação será desenvolvida inicialmente para a cidade de Lisboa, podendo, 
 Nenhuma das aplicações pesquisadas tem a possibilidade de criar rotas com os pontos turísticos escolhidos pelo utilizador, função esta a ideia principal deste projeto.
 
 ### **Lisbon City Guides, Offline Maps, Tours and Hotels**
-_Prós:_ Entre todas as ‘apps’ que utilizamos esta tem a interface mais fácil de utilizar e mais bem organizada. Quando clicamos num monumento em específico podemos ver imagens, uma breve descrição, outros pontos turísticos perto ou similares. É a única, dentre as analisadas, que permite ao utilizador escolher como ponto de partida a sua localização atual ou o primeiro local da rota.
+_Prós:_ Entre todas as ‘apps’ que utilizamos esta tem a interface mais fácil de utilizar e mais bem organizada. Quando clicamos num monumento em específico podemos ver imagens, uma breve descrição, outros pontos turísticos perto ou similares. É a única, dentre as analisadas, que permite ao utilizador escolher como ponto de partida a sua localização atual ou o primeiro local da rota.<br/>
 _Contras:_ As rotas são criadas aleatoriamente e o utilizador só pode escolher como parâmetro de criação o tempo de duração rota. Quando clicamos num monumento em específico podemos ver outros pontos turísticos próximos e semelhantes, porém não podemos adicionar à rota criada.
 
 ### **Guia de Lisboa de Civitatis**
-_Prós:_ Indicação de um roteiro para visitar Lisboa em 48 horas. Possui bastantes informações sobre as atrações turísticas. Mostra locais onde se pode comprar produtos nacionais como, pastéis, vinhos, queijos, entre outros. Também possui uma aba de atividades.
+_Prós:_ Indicação de um roteiro para visitar Lisboa em 48 horas. Possui bastantes informações sobre as atrações turísticas. Mostra locais onde se pode comprar produtos nacionais como, pastéis, vinhos, queijos, entre outros. Também possui uma aba de atividades.<br/>
 _Contras:_ Não permite a criação de um roteiro próprio. Possui poucos pontos turísticos cadastrados por isso tem pouca liberdade de escolha. Sem indicações de atrações semelhantes conforme o perfil do utilizador. Apenas sete das opções que estão na aba de atividades são grátis
 
 ### **Lisbon Travel Guide (Ulmon):**
-_Prós:_ A primeira vez que utilizamos tem um pequeno tutorial para explicar como a ‘app’ funciona. Tem um vasta escolha de pontos turísticos organizados por recomendações como, lisbon’s best shopping tips, Recommended: “Feiras”, Recommended: Beaches, etc.
+_Prós:_ A primeira vez que utilizamos tem um pequeno tutorial para explicar como a ‘app’ funciona. Tem um vasta escolha de pontos turísticos organizados por recomendações como, lisbon’s best shopping tips, Recommended: “Feiras”, Recommended: Beaches, etc.<br/>
 _Contras:_ Pouca informação sobre os monumentos, por exemplo, na página do Mosteiro dos Jerónimos só nos é visível um número de telefone, e-mail e fotos.
 
 ## **Guiões de teste**
