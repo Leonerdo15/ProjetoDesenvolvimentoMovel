@@ -3,21 +3,14 @@
 **IADE - Faculdade de Design, Tecnologia e Comunicação**
 
 Engenharia Informática — 3.º semestre
-
 Felipe Campelo Sabbado (20191012); Leonardo Lage (20200859)
 
 Projeto Multidisciplinar:
-
 Projeto de Desenvolvimento Mobile (Pedro Rosa);
-
 Programação Mobile (João Dias);
-
 Programação Orientada por Objetos (Miguel Bugalho);
-
 Bases de Dados (Miguel Boavida);
-
 Competências Comunicacionais (Alexandra Santos,);
-
 Matemática Discreta (Rodolfo Bendoyro)
 
 1 de outubro de 2021
@@ -52,7 +45,7 @@ _Prós:_ Indicação de um roteiro para visitar Lisboa em 48 horas. Possui basta
 _Contras:_ Não permite a criação de um roteiro próprio. Possui poucos pontos turísticos cadastrados por isso tem pouca liberdade de escolha. Sem indicações de atrações semelhantes conforme o perfil do utilizador. Apenas sete das opções que estão na aba de atividades são grátis
 
 ### **Lisbon Travel Guide (Ulmon):**
-_Prós:_ A primeira vez que utilizamos tem um pequeno tutorial para explicar como a ‘app’ funciona. Tem um vasta escolha de pontos turísticos organizados por recomendações como, lisbon’s best shopping tips, Recommended: “Feiras”, Recommended: Beaches, etc.  
+_Prós:_ A primeira vez que utilizamos tem um pequeno tutorial para explicar como a ‘app’ funciona. Tem um vasta escolha de pontos turísticos organizados por recomendações como, lisbon’s best shopping tips, Recommended: “Feiras”, Recommended: Beaches, etc.
 _Contras:_ Pouca informação sobre os monumentos, por exemplo, na página do Mosteiro dos Jerónimos só nos é visível um número de telefone, e-mail e fotos.
 
 ## **Guiões de teste**
